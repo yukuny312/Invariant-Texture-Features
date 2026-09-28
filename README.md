@@ -1,6 +1,18 @@
 # Invariant Texture Features to Gray Level Discretization
 
-Please cite the preprint if you find this helpful: [Paper PlaceHolder]
+Official implementation of:
+
+**Invariant Texture Features to Gray Level Discretization**  
+Yukun Yan, Samuel Lefcourt, S. Swaroop Vedula, Venkata S. Akshintala,  
+Marcia Irene Canto, Alzheimer's Disease Neuroimaging Initiative (ADNI),  
+and Craig K. Jones
+
+*Journal of Imaging Informatics in Medicine*, 2026.
+
+📄 **Paper:** [Springer Link](https://link.springer.com/article/10.1007/s10278-026-02297-0#citeas)
+🔗 **DOI:** [10.1007/s10278-026-02297-0](https://doi.org/10.1007/s10278-026-02297-0)
+
+If you find this work useful, please cite our paper.
 
 ## Overview
 The key contributions of this work: 
