@@ -7,8 +7,6 @@ Official implementation of:
 
 *Journal of Imaging Informatics in Medicine*, 2026.
 
-If you find this work useful, please cite our paper.
-
 ## Overview
 The key contributions of this work: 
 
